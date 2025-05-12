@@ -9,11 +9,10 @@ export const Container = styled.main`
     display: flex;
     flex-direction: row;
     justify-content: space-between;
-    align-items: center;
 `
 
 export const Wrapper = styled.div`
-    max-width: 300px;
+    
 `
 
 export const Column = styled.div`
@@ -27,8 +26,6 @@ export const Row = styled.div`
     align-items: center;
     margin-top: 20px;
 `
-
-
 
 export const Title = styled.h2`
     font-family: 'Open Sans';
@@ -55,20 +52,27 @@ export const SubtitleLogin = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 400;
-    font-size: 18px;
+    font-size: 16px;
     line-height: 25px;
     margin-bottom: 35px;
 `
 
+export const AoClicar = styled.p`
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 25px;
+`
 
-export const EsqueciText  = styled.p`
+export const JaTenhoConta  = styled.p`
     font-family: 'Open Sans';
     font-style: normal;
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
 
-    color: #E5E044;
+    color: #ffffff;
 ` 
 
 export const CriarText =  styled.a`
@@ -77,6 +81,7 @@ export const CriarText =  styled.a`
     font-weight: 700;
     font-size: 14px;
     line-height: 19px;
+    cursor: pointer;
 
     color: #23DD7A;
 `
