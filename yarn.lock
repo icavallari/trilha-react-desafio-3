@@ -6052,7 +6052,7 @@
   "resolved" "https://registry.npmjs.org/json-schema/-/json-schema-0.4.0.tgz"
   "version" "0.4.0"
 
-"json-server@^0.17.0":
+"json-server@^0.17.4":
   "integrity" "sha512-bGBb0WtFuAKbgI7JV3A864irWnMZSvBYRJbohaOuatHwKSRFUfqtQlrYMrB6WbalXy/cJabyjlb7JkHli6dYjQ=="
   "resolved" "https://nexus.sebrae.com.br/repository/npm-group/json-server/-/json-server-0.17.4.tgz"
   "version" "0.17.4"
@@ -7682,7 +7682,7 @@
   "resolved" "https://registry.npmjs.org/react-error-overlay/-/react-error-overlay-6.0.11.tgz"
   "version" "6.0.11"
 
-"react-hook-form@^7.33.1":
+"react-hook-form@^7.37.0":
   "integrity" "sha512-IK18V6GVbab4TAo1/cz3kqajxbDPGofdF0w7VHdCo0Nt8PrPlOZcuuDq9YYIV1BtjcX78x0XsldbQRQnQXWXmw=="
   "resolved" "https://nexus.sebrae.com.br/repository/npm-group/react-hook-form/-/react-hook-form-7.56.3.tgz"
   "version" "7.56.3"
@@ -9550,6 +9550,11 @@
     "string-width" "^4.2.3"
     "y18n" "^5.0.5"
     "yargs-parser" "^21.1.1"
+
+"yarn@^1.22.22":
+  "integrity" "sha512-prL3kGtyG7o9Z9Sv8IPfBNrWTDmXB4Qbes8A9rEzt6wkJV8mUvoirjU0Mp3GGAU06Y0XQyA3/2/RQFVuK7MTfg=="
+  "resolved" "https://nexus.sebrae.com.br/repository/npm-group/yarn/-/yarn-1.22.22.tgz"
+  "version" "1.22.22"
 
 "yocto-queue@^0.1.0":
   "integrity" "sha512-rVksvsnNCdJ/ohGc6xgPwyN8eheCxsiLM8mxuE/t/mOVqJewPuO1miLpTHQiRgTKCLexL4MeAFVagts7HmNZ2Q=="
